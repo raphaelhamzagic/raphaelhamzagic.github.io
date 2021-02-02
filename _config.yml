@@ -1,2 +1,9 @@
 #theme: jekyll-theme-midnight
-remote_theme:  brianmaierjr/long-haul 
+remote_theme:  brianmaierjr/long-haul
+
+social:
+  github: raphaelhamzagic
+  #witter: brianmaierjr
+  #acebook: brianmaierjr
+  #email: raphaelhamzagic@gmail.com
+  linkedin: raphaelhamzagic
